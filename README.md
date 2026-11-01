@@ -1,6 +1,6 @@
 ## Hi, I'm Edison 👋
 
-I make games and science projects in Scratch, and I've started coding with AI too. Click a project below to play it right in your browser — no download needed!
+I make games and science projects in scratch、 Python and C++, and I've started coding with AI too. Click a project below to play it right in your browser — no download needed!
 
 ### 🎮 My projects
 
